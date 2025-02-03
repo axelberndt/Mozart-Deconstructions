@@ -13,7 +13,7 @@ Tonmeister: Holger Schlegel
 Cello: Maciej Wlodarski
 
 ### The Music
-Create concert music using AI (artificial intelligence) that is at least 10 minutes long and relates to the [String Quintet in C major KV 515](https://dme.mozarteum.at/DME/nma/nma_cont.php?vsep=169&p1=27) by Wolfgang Amadeus Mozart. This was the task Axel Berndt was faced with in Novermber 2023. The commissioner was the [Stuttgarter Kammerorchester](https://stuttgarter-kammerorchester.com) (Stuttgart Chamber Orchestra, SKO). The date set for the performance was May 10, 2023.
+Create concert music using AI (artificial intelligence) that is at least 10 minutes long and relates to the [String Quintet in C major KV 515](https://dme.mozarteum.at/DME/nma/nma_cont.php?vsep=169&p1=27) by Wolfgang Amadeus Mozart. This was the task Axel Berndt was faced with in Novermber 2022. The commissioner was the [Stuttgarter Kammerorchester](https://stuttgarter-kammerorchester.com) (Stuttgart Chamber Orchestra, SKO). The date set for the performance was May 10, 2023.
 
 After some experimenting with the then current pretrained AI models, it was clear that there was no convincing one-click solution. Each technology has its own approach to musical (combinatorial) creativity and produces material that works better in one type of musical conception than in another. This is where the human composer comes into play, selecting the technology and integrating its outputs into a coherent musical form. 
 
