@@ -26,7 +26,7 @@ In reference to the naming of the first computer-generated music, the *Illiac Su
 
 Part of the concert program and hence of this music production is also the performance of the full [String Quintet in C major KV 515](/KV_515/).
 
-### The Recording
+### Recording Sessions
 The recordings presented here were made during a concert performance on November 28, 2024. Additional recordings were made on November 30, 2024. The performance venue was audience chamber of the Residenzmuseum Schloß Neuhaus in Paderborn, Germany.
 
 ### Funding Notice
