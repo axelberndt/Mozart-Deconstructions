@@ -2,7 +2,7 @@
 
 [<img src="https://github.com/axelberndt/Mozart-Deconstructions/blob/master/LICENSE/by-nc-nd.eu.png" alt="CC By-NC-ND 4.0" height="40"/>](https://github.com/axelberndt/Mozart-Deconstructions/blob/master/LICENSE)4.0
 
-Composer: [Axel Berndt](https://github.com/axelberndt)<br>
+Programmer, Arranger, Composer: [Axel Berndt](https://github.com/axelberndt)<br>
 Tonmeister: Holger Schlegel
 
 ### Ensemble Ixora
