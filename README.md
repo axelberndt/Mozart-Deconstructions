@@ -1,10 +1,11 @@
 # Mozart Deconstructions: Musical Experiments wit AI
 
-[![CC BY 4.0][cc-by-nc-nd-image]][https://github.com/axelberndt/Mozart-Deconstructions/tree/master/LICENSE] [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
+[![CC BY 4.0][cc-by-nc-nd-image]][aggreement] [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
 [cc-by-nc-nd]: https://creativecommons.org/licenses/by-nc-nd/4.0/
 [cc-by-nc-nd-image]: https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png
 [cc-by-nc-nd-shield]: https://img.shields.io/badge/License-CC%20BYNCND%204.0-lightgrey.svg
+[aggreement]: https://github.com/axelberndt/Mozart-Deconstructions/tree/master/LICENSE
 
 Programmer, Arranger, Composer: [Axel Berndt](https://github.com/axelberndt)<br>
 Tonmeister: Holger Schlegel
