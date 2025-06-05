@@ -1,4 +1,4 @@
-# Mozart Deconstructions: Musical Experiments wit AI
+# Mozart Deconstructions: Musical Experiments with AI
 
 [![CC BY 4.0][cc-by-nc-nd-image]][cc-by-nc-nd] <!--[![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]-->
 
